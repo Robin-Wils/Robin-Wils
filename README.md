@@ -1,4 +1,4 @@
-<img src="https://avatars1.githubusercontent.com/u/5617025?s=460&u=b07ff5e5e70a3480d297264913b12cc133b7c50f&v=4"
+<img src="https://robinwils.surge.sh/images/robin-wils-avatar.jpg"
      alt="A black and white picture of a man with glasses. This man is named Robin Wils." 
      width="120" 
      height="120"

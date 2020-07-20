@@ -9,9 +9,9 @@ You can find more info about me and my projects on my [website](https://robinwil
 
 
 ### Contact
-- Mastodon: `@RMW@linuxrocks.online`
+- Mastodon: [@RMW@linuxrocks.online](https://linuxrocks.online/web/accounts/113308)
 - Email: mrwils@tutanota.com
-- Twitter: @wils_robin
+- Twitter: [@wils_robin](https://twitter.com/wils_robin)
 <!--
 **Robin-Wils/Robin-Wils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

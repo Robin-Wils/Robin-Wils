@@ -4,8 +4,7 @@
      height="120"
      style="border-color:#212121;border-radius:.3rem">
 
-I am a FLOSS software enthusiast. Interested in GNU and Linux.  
-You can find more info about me and my projects on my [website](https://robinwils.surge.sh/).
+I am a computer nerd. The programmer of Friendly Premonition. You can find more info about me on my [website](https://robinwils.surge.sh/).
 
 
 ### Contact

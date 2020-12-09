@@ -4,13 +4,9 @@
      height="120"
      style="border-color:#212121;border-radius:.3rem">
 
-I am a computer nerd. The programmer of Friendly Premonition. You can find more info about me on my [website](https://robinwils.surge.sh/).
+Computer nerd, likes nerdcore music, horror movie and filmmaking fan. The programmer of Friendly Premonition.
 
-
-### Contact
-- Mastodon: [@RMW@linuxrocks.online](https://linuxrocks.online/web/accounts/113308)
-- Email: mrwils@tutanota.com
-- Twitter: [@wils_robin](https://twitter.com/wils_robin)
+[Contact](https://robinwils.com/contact/) me.
 <!--
 **Robin-Wils/Robin-Wils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

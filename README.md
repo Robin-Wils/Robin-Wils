@@ -4,7 +4,7 @@
      height="120"
      style="border-color:#212121;border-radius:.3rem">
 
-Computer nerd, likes nerdcore music, horror movie and filmmaking fan. The programmer of Friendly Premonition.
+Computer nerd, likes nerdcore music, horror movie and filmmaking fan.
 
 [Contact](https://robinwils.com/contact/) me.
 <!--

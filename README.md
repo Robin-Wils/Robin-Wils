@@ -4,7 +4,7 @@
      height="120"
      style="border-color:#212121;border-radius:.3rem">
 
-Computer nerd, likes nerdcore music, horror movie and filmmaking fan.
+I am a human animal which lives in Belgium. Find out more about me on my website.
 
 [Contact](https://robinwils.com/contact/) me.
 <!--
